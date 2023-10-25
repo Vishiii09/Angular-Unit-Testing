@@ -89,10 +89,13 @@ Create spy for logger service and try to create spyObject.
 
 <img width="696" alt="image" src="https://github.com/Vishiii09/angular-unit-testing/assets/42347700/563a8921-9913-42e0-9ff1-1a444d5159e9">
 
-If you want logger method to be called.
+If you want logger method to be called with spyObject.
 
-use callThrough()
+use callThrough() - It will spy on log method and also call log method.
 <img width="841" alt="image" src="https://github.com/Vishiii09/angular-unit-testing/assets/42347700/46a71983-f327-46ca-bbe8-75c69f3ab208">
+
+
+
 
 
 
