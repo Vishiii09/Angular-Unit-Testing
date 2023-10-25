@@ -54,14 +54,5 @@ Types of Mock -
 
 How to write basic spec?
 
-describe('First Test', () => {
-  let testVariable: any;
-  beforeEach(() => {
-    testVariable = {};
-  });
-  it('should return true if a is true', () => {
-    testVariable.a = false;
-    testVariable.a = true;
-    expect(testVariable.a).toBe(true);
-  });
-});
+<img width="924" alt="image" src="https://github.com/Vishiii09/angular-unit-testing/assets/42347700/9d7cd4f6-b4e5-4aac-817a-78f7688cc6ee">
+
